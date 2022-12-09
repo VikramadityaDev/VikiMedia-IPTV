@@ -2,7 +2,11 @@
 
 ![image](https://github.com/VikramadityaDev/VikiMedia-IPTV/blob/main/assert/img/VikiMedia%20IPTV.png)
 
-https://img.shields.io/github/downloads/VikramadityaDev/VikiMedia-IPTV/v1.0.0?color=green&label=Download&logoColor=green&style=for-the-badge
+<p align="center">
+<a href="https://github.com/VikramadityaDev/Lavender-Seedr-Official/releases/download/Download/Lavender.Seedr.v1.0.0.apk"><img src="https://img.shields.io/github/downloads/VikramadityaDev/VikiMedia-IPTV/Download/total?color=g&label=Download&logo=Android&logoColor=white&style=for-the-badge"></a>
+</p>
+
+
 
 https://VikiMedia-IPTV.netlify.app/
 
