@@ -1,4 +1,4 @@
-# VikiMedia Official WebPage 
+# VikiMedia IPTV 
 
 https://VikiMedia.netlify.app/
 
