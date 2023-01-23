@@ -11,3 +11,5 @@
 https://VikiMedia-IPTV.netlify.app/
 
 Do follow me on GitHub 🌟
+
+## IPTV Closed Permanently.
